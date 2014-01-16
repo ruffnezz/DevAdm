@@ -38,7 +38,7 @@ public class DeviceController {
 	}
 
 	/*
-	 * return a static instance of DeviceController
+	 * return a static instance of DeviceController // test things
 	 */
 	public static DeviceController getInstance(Context ctx) {
 		if (instance == null) {
